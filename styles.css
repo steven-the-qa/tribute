@@ -1,8 +1,6 @@
-footer {
+.flex {
  display: flex;
- flex-direction: column;
  width: 100vw;
- height: 30vh;
  justify-content: center;
  align-items: center;
 }
