@@ -13,5 +13,8 @@
  font-family: Spectral SC, sans-serif;
 }
 footer {
- text-align: center;
+ display: flex;
+ flex-direction: column;
+ width: 100vw;
+ height: 20vh;
 }
