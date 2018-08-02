@@ -1,1 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow');
+@import url('https://fonts.googleapis.com/css?family=Spectral+SC');
 
+#author{
+ color: red;
+ font-family: Barlow;
+}
+#quote{
+ font-family: Barlow, sans-serif;
+}
+#link {
+ font-size: 25px;
+ font-family: Spectral SC, sans-serif;
+}
