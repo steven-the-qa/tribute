@@ -14,3 +14,6 @@ body {
  background-color: #36454F;
  color: #B2BEB5;
 }
+a:hover {
+ color: #B2BEB5;
+}
