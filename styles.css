@@ -17,4 +17,6 @@ footer {
  flex-direction: column;
  width: 100vw;
  height: 20vh;
+ justify-content: space-around;
+ align-items: flex-end;
 }
